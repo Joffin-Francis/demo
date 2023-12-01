@@ -1,0 +1,21 @@
+     Nodes                Values
+AM1                               7.13mA
+AM2                               4.55mA
+AM3                               1.85mA
+AM4                             735.29uA
+I_R1[1,5]                        -4.55mA
+I_R2[2,5]                        -1.85mA
+I_R3[3,5]                      -735.29uA
+V_AM1[4,5]                            0V
+V_AM2[1,0]                            0V
+V_AM3[2,0]                            0V
+V_AM4[3,0]                            0V
+V_R1[1,5]                            -5V
+V_R2[2,5]                            -5V
+V_R3[3,5]                            -5V
+V_V1[4,0]                             5V
+VP_1                                  0V
+VP_2                                  0V
+VP_3                                  0V
+VP_4                                  5V
+VP_5                                  5V

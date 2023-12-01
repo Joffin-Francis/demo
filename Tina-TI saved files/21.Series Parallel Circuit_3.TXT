@@ -1,0 +1,15 @@
+     Nodes                Values
+AM1                                  6mA
+B                                    36V
+C                                    12V
+I_R1[0,B]                           -2mA
+I_R3[C,B]                           -4mA
+I_R4[0,C]                           -4mA
+V_AM1[1,B]                            0V
+V_IS1[0,1]                          -36V
+V_R1[0,B]                           -36V
+V_R3[C,B]                           -24V
+V_R4[0,C]                           -12V
+VP_1                                 36V
+VP_B                                 36V
+VP_C                                 12V

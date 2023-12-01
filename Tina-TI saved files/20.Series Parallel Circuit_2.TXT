@@ -1,0 +1,14 @@
+     Nodes                Values
+A                                    14V
+B                                     8V
+C                                     0V
+I_R1[1,A]                            2mA
+I_R2[A,B]                            2mA
+I_R3[B,0]                            2mA
+V_R1[1,A]                            16V
+V_R2[A,B]                             6V
+V_R3[B,0]                             8V
+V_V1[1,0]                            30V
+VP_1                                 30V
+VP_A                                 14V
+VP_B                                  8V

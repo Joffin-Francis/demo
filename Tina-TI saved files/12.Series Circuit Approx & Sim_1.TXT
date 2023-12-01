@@ -1,0 +1,18 @@
+     Nodes                Values
+A                                    18V
+B                                 15.23V
+C                                  9.14V
+I_R1[A,B]                         2.77mA
+I_R2[B,C]                         2.77mA
+I_R3[0,C]                        -2.77mA
+V_R1[A,B]                          2.77V
+V_R2[B,C]                          6.09V
+V_R3[0,C]                         -9.14V
+V_V1[A,0]                            18V
+V_VM1[A,B]                         2.77V
+V_VM2[B,C]                         6.09V
+VM1                                2.77V
+VM2                                6.09V
+VP_A                                 18V
+VP_B                              15.23V
+VP_C                               9.14V

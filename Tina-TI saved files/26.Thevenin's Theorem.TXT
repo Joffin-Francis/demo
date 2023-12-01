@@ -1,0 +1,22 @@
+     Nodes                Values
+I_R load[Vload,                   7.27mA
+I_R1[1,2]                        18.18mA
+I_R2[0,2]                       -10.91mA
+I_R3[Vload,2]                    -7.27mA
+I_Rload2[0,Vloa                  -7.27mA
+I_Rth[4,Vload2]                   7.27mA
+V_E Source[1,0]                      12V
+V_Eth[4,0]                            8V
+V_R load[Vload,                 727.27mV
+V_R1[1,2]                          5.45V
+V_R2[0,2]                         -6.55V
+V_R3[Vload,2]                     -5.82V
+V_Rload2[0,Vloa                -727.27mV
+V_Rth[4,Vload2]                    7.27V
+Vload                           727.27mV
+Vload2                          727.27mV
+VP_1                                 12V
+VP_2                               6.55V
+VP_4                                  8V
+VP_Vload                        727.27mV
+VP_Vload2                       727.27mV

@@ -1,0 +1,9 @@
+     Nodes                Values
+I_Rload[0,Vload                    -50mA
+I_Rs[1,Vload]                       50mA
+V_Rload[0,Vload                      -5V
+V_Rs[1,Vload]                         5V
+V_V1[1,0]                            10V
+Vload                                 5V
+VP_1                                 10V
+VP_Vload                              5V

@@ -1,0 +1,15 @@
+     Nodes                Values
+I_R1[1,Node A]                    1.61mA
+I_R2[Node B,Nod                  -1.27mA
+I_R3[0,Node B]                   -1.27mA
+I_R4[0,Node A]                  -338.6uA
+Node A                             4.06V
+Node B                             2.79V
+V_R1[1,Node A]                    10.94V
+V_R2[Node B,Nod                   -1.27V
+V_R3[0,Node B]                    -2.79V
+V_R4[0,Node A]                    -4.06V
+V_V1[1,0]                            15V
+VP_1                                 15V
+VP_Node A                          4.06V
+VP_Node B                          2.79V

@@ -1,0 +1,9 @@
+     Nodes                Values
+I_R1[2,Va]                          16mA
+I_R2[0,Va]                         -16mA
+V_R1[2,Va]                           16V
+V_R2[0,Va]                          -16V
+V_V1[2,0]                            32V
+Va                                   16V
+VP_2                                 32V
+VP_Va                                16V
