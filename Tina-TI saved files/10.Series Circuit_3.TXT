@@ -1,0 +1,14 @@
+     Nodes                Values
+A                                  -100V
+B                                   -60V
+C                                   -10V
+I_R1[A,B]                          -10mA
+I_R2[B,C]                          -10mA
+I_R3[0,C]                           10mA
+V_IS1[A,0]                         -100V
+V_R1[A,B]                           -40V
+V_R2[B,C]                           -50V
+V_R3[0,C]                            10V
+VP_A                               -100V
+VP_B                                -60V
+VP_C                                -10V

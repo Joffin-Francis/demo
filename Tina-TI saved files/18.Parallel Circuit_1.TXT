@@ -1,0 +1,10 @@
+     Nodes                Values
+AM1                                  6mA
+I_R1[0,2]                           -4mA
+I_R2[0,2]                           -2mA
+V_AM1[1,2]                            0V
+V_R1[0,2]                           -12V
+V_R2[0,2]                           -12V
+V_V1[1,0]                            12V
+VP_1                                 12V
+VP_2                                 12V

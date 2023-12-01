@@ -1,0 +1,16 @@
+     Nodes                Values
+I_R1[0,VF1]                        -60mA
+I_R2[0,VF2]                        -60mA
+I_RInte[2,VF1]                      60mA
+I_RIntl[0,VF2]                     -30mA
+V_IS1[0,VF2]                         -3V
+V_R1[0,VF1]                          -3V
+V_R2[0,VF2]                          -3V
+V_RInte[2,VF1]                        6V
+V_RIntl[0,VF2]                       -3V
+V_V1[2,0]                             9V
+VF1                                   3V
+VF2                                   3V
+VP_2                                  9V
+VP_VF1                                3V
+VP_VF2                                3V
